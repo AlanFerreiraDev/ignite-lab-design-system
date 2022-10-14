@@ -58,7 +58,7 @@ export const App = () => {
         </label>
 
         <Button type="submit" className="mt-4">
-          Entrar na platafroma
+          Entrar na plataforma
         </Button>
       </form>
 
